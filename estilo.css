@@ -1,0 +1,122 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(Laranja03.jpeg);
+    background-attachment: fixed;
+    background-repeat: repeat ;
+    background-size: cover;
+    background-position: bottom right;
+    color: white;
+  }
+  
+  #border{
+    width: 1000px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background: #1a1110;
+  }
+  
+  h1
+   {
+    height: 50px;
+    padding-top: 20px;
+    background: #dd360a ;
+    display: block;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    color: white;
+  }
+  
+  footer{
+    background-color: #002a32;
+    padding: 50px;
+    padding-left:500px;
+    padding-right: 500px;
+    display: block;
+    text-align: center;
+    font-size: 26px;
+    font-weight:700;
+    color: white;
+  }
+  
+  #Topo p {
+    padding: 25px;
+    text-align: center;
+  }
+  
+  #Meio p {
+    padding: 25px;
+    text-align: center; 
+  }
+  
+  figure{
+    padding-left: 370px;
+    padding-right: 370px;
+    padding-top: 20px;
+    padding-bottom:20px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 3px 0px rgba(0,0,0,0.7);
+    background-color: rgb(160, 157, 157);
+    display: block;
+    transform: scale(0.8);
+  }
+  
+  figure:hover{
+     transform: scale(1);
+  }
+  
+   legend{
+    padding-top: 15px;
+    font-size: 22px;
+    text-align: center
+  }
+  
+  
+  #Baixo p {
+    padding: 25px;
+    text-align: center;
+  
+    position: relative;
+    bottom: 20px;
+  }
+  
+  
+  
+  #Quaseumrodape {
+    margin-bottom: 15px;
+    text-align: center;
+    padding: 25px;
+    
+    position: relative;
+    bottom: 20px;
+  }
+  
+  b
+   {
+    display: inline;
+    color: #dd360a ;
+  
+    position: relative;
+    bottom: 20px;
+  }
+  #Topo p #Negrito{
+    position: relative;
+    bottom: 20px;
+  }
+  
+  a{
+    color: #dd360a ;
+  }
+  
+  em {
+    display: block;
+    color: #dd360a ;
+    /*visibility: hidden;*/
+  }
+  
+  #span {
+    display: block;
+    color: #dd360a ;
+  }
+  
